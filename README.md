@@ -1,0 +1,2 @@
+# VerificadorPreco
+VerificadorPreco
